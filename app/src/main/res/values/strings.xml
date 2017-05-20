@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Cincy Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="parks_tab">Parks</string>
+    <string name="sports_tab">Sports</string>
+    <string name="museums_tab">Museums</string>
+    <string name="festivals_tab">Festivals</string>
+
+
+
+    <string name="eden_park_name">Eden Park</string>
+    <string name="eden_park_desc">Eden Park is an urban park located in the Walnut Hills and Mt. Adams neighborhoods of Cincinnati, Ohio. The hilltop park occupies 186 acres, and offers numerous overlooks of the Ohio River valley.</string>
+    <string name="ault_park_name">Ault Park</string>
+    <string name="ault_park_desc">Ault Park is the fourth-largest park in Cincinnati at 223.949 acres, owned and operated by the Cincinnati Park Board. It lies in the Mount Lookout neighborhood on the citys east side.</string>
+    <string name="mt_echo_name">Mt. Echo Park</string>
+    <string name="mt_echo_desc">Mt. Echo Park is an 84-acre urban park in the Price Hill neighborhood of Cincinnati, Ohio, United States. Located on a hilltop, the park offers scenic overlooks of Downtown Cincinnati and across the Ohio River valley to Northern Kentucky.</string>
+    <string name="devou_park_name">Devou Park</string>
+    <string name="devou_park_desc">Devou Park is a city park in Covington, Kentucky. With 700 acres, it is the citys largest park. The hilltop parks overlooks offer panoramic views of the Cincinnati skyline and the Ohio River valley below.</string>
+    <string name="smale_riverfront_name">Smale Riverfront Park</string>
+    <string name="smale_riverfront_desc">Smale Riverfront Park is a park for the generations—a compelling recreational, entertainment and leisure resource for the entire Greater Cincinnati community.</string>
+    <string name="friendship_park_name">T.M. Berry Friendship Park</string>
+    <string name="friendship_park_desc">Narrow green space named for Cincinnati’s first African-American mayor, with walking and bike trails.</string>
+    <string name="washington_park_name">Washington Park</string>
+    <string name="washington_park_desc">Washington Park is bounded by West 12th, Race and Elm Streets in the Over-the-Rhine neighborhood of Cincinnati, Ohio, United States. The park is owned and operated by the Cincinnati Park Board.</string>
+
+
+    <string name="bengals_name">Cincinnati Bengals</string>
+    <string name="bengals_desc">The Cincinnati Bengals are a football team based in Cincinnati, OH. The Bengals currently compete in the National Football League as a member club of the leagues American Football Conference North division.</string>
+    <string name="reds_name">Cincinnati Reds</string>
+    <string name="reds_desc">The Cincinnati Reds are an American professional baseball team based in Cincinnati, Ohio. The Reds compete in Major League Baseball as a member club of the National League Central division.</string>
+    <string name="bearcats_name">UC Bearcats(NCAAB)</string>
+    <string name="bearcats_desc">"The Cincinnati Bearcats are the NCAA athletic teams representing the University of Cincinnati in Cincinnati, Ohio.</string>
+    <string name="musketeers_name">Xavier Musketeers(NCAAB)</string>
+    <string name="musketeers_desc">The Xavier Musketeers mens basketball team represents Xavier University in Cincinnati, Ohio, United States. The schools team currently competes in the Big East Conference.</string>
+    <string name="fc_cincy_name">FC Cincinnati</string>
+    <string name="fc_cincy_desc">FC Cincinnati is a United Soccer League club that began play in 2016. The team was announced on August 12, 2015. The clubs ownership group is led by Carl H. Lindner III. John Harkes currently coaches the team.</string>
+
+
+    <string name="cincy_museum_name">Cincinnati Museum Center</string>
+    <string name="cincy_museum_desc">The Cincinnati Museum Center at Union Terminal, originally Cincinnati Union Terminal, is a passenger railroad station in the Queensgate neighborhood of Cincinnati, Ohio, United States.</string>
+    <string name="cincy_art_museum_name">Cincinnati Art Museum</string>
+    <string name="cincy_art_museum_desc">The Cincinnati Art Museum is one of the oldest art museums in the United States. Founded in 1881, it was the first purpose-built art museum west of the Alleghenies.</string>
+    <string name="underground_railroad_name">National Underground Railroad Freedom Center</string>
+    <string name="underground_railroad_desc"> A history museum with more than 100,000 visitors annually, it serves to inspire modern abolition through connecting the lessons of the Underground Railroad with today’s freedom fighters.  The center is also a convener of dialogue on freedom and human rights.</string>
+    <string name="sign_museum_name">American Sign Museum</string>
+    <string name="sign_museum_desc">The American Sign Museum in Cincinnati, Ohio, preserves, archives, and displays a collection of signs. The museum also displays the equipment utilized in the design and manufacture of signs.</string>
+    <string name="taft_art_museum_name">Taft Art Museum</string>
+    <string name="taft_art_museum_desc">The Taft Museum of Art is a historic house museum holding a fine art collection in Cincinnati. It is on the National Register of Historic Places listings in downtown Cincinnati, Ohio.f</string>
+
+
+    <string name="cincy_music_fest_name">Cincinnati Music Festival</string>
+    <string name="cincy_music_fest_desc">What began in 1962 as Ohio Valley Jazz Festival has evolved into a spectacular two-day soul music celebration held each summer at Paul Brown Stadium on Cincinnatis riverfront.</string>
+    <string name="opening_day_parade_name">Findlay Market Opening Day Parade</string>
+    <string name="opening_day_parade_desc">Since 1920, this parade has made its way from Findlay Market in Over-the-Rhine through the streets of downtown each spring to kick off the Cincinnati Reds baseball season. Bring a chair and some noise makers and make a party of it at either Washington Park or Fountain Square as the parade passes by.</string>
+    <string name="flying_pig_name">Flying Pig Marathon</string>
+    <string name="flying_pig_desc">The Cincinnati Flying Pig Marathon is a 42.195 km ( 26.2 mi) race run the first Sunday of every May in Cincinnati, Ohio. Its first run was in 1999.</string>
+    <string name="oktoberfest_name">Oktoberfest Zinzinnati</string>
+    <string name="oktoberfest_desc">The second-largest Oktoberfest celebration in the world (the first being the original in Munich, Germany.</string>
+    <string name="riverfest_name">Riverfest/WEBN Fireworks</string>
+    <string name="riverfest_desc">The Cincinnati Riverfest is an annual festival that has taken place Labor Day weekend since 1977. The highlight of the event, the fireworks display at 9:05, is one of the largest in the Midwest</string>
+    <string name="fest_of_lights_name">Cincinnati Zoo: Festival of Lights</string>
+    <string name="fest_of_lights_desc">The Cincinnati Zoo will once again be transformed into a “Wild Wonderland” for the 34thannual PNC Festival of Lights! In addition to admiring the beauty of 2.5 million LED lights, visitors can watch a Madcap black-light puppet show, ride the Toyland Express, search for fairies in Fairyland, marvel at the spectacular Wild Lights show on Swan Lake, or snack at one of two S’mores-n-More stands.</string>
+
+</resources>
